@@ -1,2 +1,4 @@
 some comments or remarks in the readme.md file then push it to GitHub.
-<img height="500" src="C:\Users\QWWE\Pictures\Screenshots\螢幕擷取畫面 (46).png" width="1000"/>
+
+
+<img height="100" src="C:\Users\QWWE\Pictures\Screenshots\螢幕擷取畫面 (46).png" width="200"/>
